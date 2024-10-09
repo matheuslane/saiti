@@ -1,0 +1,21 @@
+body{
+color: aqua;
+background-color: aqua;
+font-family:Arial, Helvetica, sans-serif ;
+
+}
+
+ul{
+display :flex ;
+justify-content: space-between;
+list-style: none;
+align-self: center;
+padding: 16px;
+}
+
+a{
+color: black;
+text-decoration:none ;
+
+
+}
